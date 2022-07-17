@@ -4,7 +4,9 @@ LICENSE:[MIT](./license.md)
 
 
 ---
+### Содержание
 
+1. [Основные команды](./commands.md)
 
 
 ---
