@@ -2,6 +2,7 @@
 
 LICENSE:[MIT](./license.md)
 
+![git-logo](./assets/Git-Logo-1788C.png)
 
 ---
 ### Содержание
